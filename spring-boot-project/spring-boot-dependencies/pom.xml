@@ -107,7 +107,7 @@
 		<jetty.version>9.4.14.v20181114</jetty.version>
 		<jetty-jsp.version>2.2.0.v201112011158</jetty-jsp.version>
 		<jetty-el.version>8.5.35.1</jetty-el.version>
-		<jetty-reactive-httpclient.version>1.0.2</jetty-reactive-httpclient.version>
+		<jetty-reactive-httpclient.version>4.0.0</jetty-reactive-httpclient.version>
 		<jmustache.version>1.14</jmustache.version>
 		<jna.version>4.5.2</jna.version>
 		<joda-time.version>2.10.1</joda-time.version>
@@ -187,7 +187,7 @@
 		<thymeleaf-layout-dialect.version>2.3.0</thymeleaf-layout-dialect.version>
 		<thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
 		<thymeleaf-extras-java8time.version>3.0.2.RELEASE</thymeleaf-extras-java8time.version>
-		<tomcat.version>9.0.14</tomcat.version>
+		<tomcat.version>9.0.81</tomcat.version>
 		<unboundid-ldapsdk.version>4.0.9</unboundid-ldapsdk.version>
 		<undertow.version>2.0.16.Final</undertow.version>
 		<webjars-hal-browser.version>3325375</webjars-hal-browser.version>
