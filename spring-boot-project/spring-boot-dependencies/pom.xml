@@ -61,7 +61,7 @@
 		<embedded-mongo.version>2.2.0</embedded-mongo.version>
 		<flyway.version>5.2.4</flyway.version>
 		<freemarker.version>2.3.28</freemarker.version>
-		<elasticsearch.version>6.4.3</elasticsearch.version>
+		<elasticsearch.version>7.17.8</elasticsearch.version>
 		<glassfish-el.version>3.0.0</glassfish-el.version>
 		<glassfish-jaxb.version>2.3.1</glassfish-jaxb.version>
 		<groovy.version>2.5.5</groovy.version>
@@ -107,7 +107,7 @@
 		<jetty.version>9.4.14.v20181114</jetty.version>
 		<jetty-jsp.version>2.2.0.v201112011158</jetty-jsp.version>
 		<jetty-el.version>8.5.35.1</jetty-el.version>
-		<jetty-reactive-httpclient.version>1.0.2</jetty-reactive-httpclient.version>
+		<jetty-reactive-httpclient.version>1.1.7</jetty-reactive-httpclient.version>
 		<jmustache.version>1.14</jmustache.version>
 		<jna.version>4.5.2</jna.version>
 		<joda-time.version>2.10.1</joda-time.version>
@@ -168,7 +168,7 @@
 		<spring-cloud-connectors.version>2.0.4.RELEASE</spring-cloud-connectors.version>
 		<spring-data-releasetrain.version>Lovelace-SR4</spring-data-releasetrain.version>
 		<spring-framework.version>${spring.version}</spring-framework.version>
-		<spring-hateoas.version>0.25.0.RELEASE</spring-hateoas.version>
+		<spring-hateoas.version>2.1.5</spring-hateoas.version>
 		<spring-integration.version>5.1.2.RELEASE</spring-integration.version>
 		<spring-kafka.version>2.2.3.RELEASE</spring-kafka.version>
 		<spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
